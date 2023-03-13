@@ -1,5 +1,5 @@
 
-<h1>Hello, My name is Marcelo 🖐️</h1>
+<h1>Hello, 🖐️</h1>
 <img width="41%" src="https://github-readme-stats.vercel.app/api?username=marceloxhenrique&show_icons=true&theme=react">
 
 <div style="display: inline_block">
