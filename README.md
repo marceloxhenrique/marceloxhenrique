@@ -14,6 +14,7 @@
   <img align="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img align="center" alt="GIT/gitHub" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
+[![Marcelo Github States](https://github-readme-stats.vercel.app/api?username=marceloxhenrique&show_icons=true&theme=dracula)](https://github.com/marceloxhenrique/github-readme-stats)
 
 <!---
 Source to stats: card https://github.com/anuraghazra/github-readme-stats#github-stats-card
