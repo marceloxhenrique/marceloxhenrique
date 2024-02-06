@@ -1,5 +1,6 @@
 
-<h1>Hello, 🖐️</h1>
+<h1>Hello, 🖐️ Je m'appelle Marcelo</h1>
+<p>Développeur Web Full Stack dédié à la création d'interfaces réactives et adaptatives, ainsi que dans le développement d'APIs en utilisant JavaScript et TypeScript.</p>
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
