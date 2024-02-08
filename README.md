@@ -1,5 +1,5 @@
 
-<h1>Hello, 🖐️ Je m'appelle Marcelo</h1>
+<h1>Hello, 🖐️</h1>
 <p>Développeur Web Full Stack dédié à la création d'interfaces réactives et adaptatives, ainsi que dans le développement d'APIs en utilisant JavaScript et TypeScript.</p>
 
 <div style="display: inline_block">
