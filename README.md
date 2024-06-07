@@ -8,7 +8,6 @@
     <img style="width:110px;height:35px;border-radius:.3em" alt="TAILWIND CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   </section>
 
-
   <section style="display:flex; flex-direction:row;gap:.5em; padding:.5em 0">
     <img style="width:110px;height:35px; border-radius:.3em" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img style="width:110px;height:35px; border-radius:.3em" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
