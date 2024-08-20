@@ -1,5 +1,5 @@
 <h1 style="font-size:38px">Hello 🖐️</h1>
-<h2 style="font-size:32px">I am a Full Stack Web Developer with expertise in creating responsive, user-friendly interfaces and efficient, scalable APIs using JavaScript and TypeScript.</h2>
+<h2 style="font-size:32px">I am a Full Stack Web Developer with expertise in creating responsive user-friendly interfaces and efficient scalable APIs using JavaScript and TypeScript.</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
